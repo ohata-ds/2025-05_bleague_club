@@ -1,6 +1,5 @@
 # Bリーグクラブ データ分析用 Power BI レポート
 このリポジトリでは、YouTube チャンネル【DX塾】の「Power BI 実演ライブ」で使用する、Bリーグクラブに関するデータセットおよび Power BI レポートファイルを提供しています。  
-データ分析や可視化にご活用ください。
 
 **[Power BI 実演ライブ](https://powerbi-live.connpass.com/)**
 
